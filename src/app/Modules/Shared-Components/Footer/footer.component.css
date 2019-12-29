@@ -1,0 +1,16 @@
+.FooterWrapper {
+    width: 100%;
+    height: 30px;
+    background-color: #c1c1c1;
+    position: fixed;
+    bottom: 0;
+}
+
+.FooterTextWrapper {
+    margin-top: 5px;
+    text-align: center;
+}
+
+.LinkText {
+    color: black;
+}
